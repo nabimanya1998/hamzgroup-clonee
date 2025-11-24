@@ -55,79 +55,79 @@ File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\roboto\v50\KFOMC
 Content Type: font/ttf
 
 Uri: https://hamzgroup.com/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/about-us/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\about-us\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\about-us\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/byaallahmall/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\byaallahmall\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\byaallahmall\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/feed/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\feed\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\feed\index.html
 Content Type: application/rss+xml
 
 Uri: https://hamzgroup.com/gallery/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\gallery\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\gallery\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/ham-agro-processing-industries/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-agro-processing-industries\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-agro-processing-industries\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/ham-international-express-logistics-llc/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-international-express-logistics-llc\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-international-express-logistics-llc\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/ham-international-us-ltd/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-international-us-ltd\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-international-us-ltd\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/ham-palm-villas-gallery/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-palm-villas-gallery\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-palm-villas-gallery\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/ham-shopping-grounds/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-shopping-grounds\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-shopping-grounds\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/hamtowers/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamtowers\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamtowers\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/hamz-fitness-center-gallery/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamz-fitness-center-gallery\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamz-fitness-center-gallery\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/hamzfoundation/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzfoundation\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzfoundation\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/hamzlimited/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzlimited\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzlimited\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/hamzplaza/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzplaza\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzplaza\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/hamzstadiumgallery/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzstadiumgallery\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzstadiumgallery\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/our-team/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\our-team\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\our-team\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/queens-stores/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\queens-stores\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\queens-stores\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/white-house-uganda-gallary/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\white-house-uganda-gallary\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\white-house-uganda-gallary\index.html
 Content Type: text/html
 
 Uri: https://hamzgroup.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.3
@@ -1971,7 +1971,7 @@ File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-includes\js\jqu
 Content Type: text/javascript
 
 Uri: https://hamzgroup.com/wp-json/
-File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\index.htm
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\index.html
 Content Type: application/json
 
 Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2F
