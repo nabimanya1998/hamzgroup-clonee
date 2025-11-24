@@ -1,0 +1,2196 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:1%2C300%2C400%2C400italic%2C500%2C700%2C700italic|Montserrat:1%2C300%2C400%2C400italic%2C500%2C700%2C700italic&display=swap&ver=b9dee6dbe1b911ef620dc9d013b8702e
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400&display=swap
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://hamzgroup.com/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/about-us/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/byaallahmall/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\byaallahmall\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/feed/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hamzgroup.com/gallery/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\gallery\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/ham-agro-processing-industries/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-agro-processing-industries\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/ham-international-express-logistics-llc/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-international-express-logistics-llc\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/ham-international-us-ltd/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-international-us-ltd\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/ham-palm-villas-gallery/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-palm-villas-gallery\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/ham-shopping-grounds/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\ham-shopping-grounds\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/hamtowers/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamtowers\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/hamz-fitness-center-gallery/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamz-fitness-center-gallery\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/hamzfoundation/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzfoundation\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/hamzlimited/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzlimited\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/hamzplaza/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzplaza\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/hamzstadiumgallery/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\hamzstadiumgallery\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/our-team/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\our-team\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/queens-stores/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\queens-stores\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/white-house-uganda-gallary/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\white-house-uganda-gallary\index.htm
+Content Type: text/html
+
+Uri: https://hamzgroup.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.3
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.3
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.3
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/assets/coloredbg.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\assets\dummy.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/assets/gridtile.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/assets/gridtile_3x3.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/assets/gridtile_3x3_white.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/assets/gridtile_white.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/assets/loader.gif
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/css/closedhand.cur
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\css\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/css/openhand.cur
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\css\openhand.cur
+Content Type: application/octet-stream
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.36
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.36
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\js\rbtools.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.36
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\plugins\revslider\sr6\assets\js\rs6.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/assets/animations/animations.min.css?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\assets\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/assets/animations/animations.min.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\assets\animations\animations.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/css/be.css?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\css\be.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/css/elements/divider-2.css?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\css\elements\divider-2.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/css/responsive.css?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\css\responsive.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.eot
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.eot?
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.woff
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-brands-400.woff2
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.eot
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.eot?
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.woff
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-regular-400.woff2
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.eot
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.eot?
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.ttf
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.woff
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fa-solid-900.woff2
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/fontawesome/fontawesome.css?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\fontawesome\fontawesome.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/mfn/icons.eot?3522148
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\mfn\icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/mfn/icons.svg?3522148
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\mfn\icons.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/mfn/icons.ttf?3522148
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\mfn\icons.ttf
+Content Type: font/ttf
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/mfn/icons.woff2?3522148
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\mfn\icons.woff2
+Content Type: font/woff2
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/fonts/mfn/icons.woff?3522148
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\fonts\mfn\icons.woff
+Content Type: font/woff
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/bg_panel.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\bg_panel.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/blog_masonry_tile_gradient.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\blog_masonry_tile_gradient.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/box_shadow.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\box_shadow.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/fancy_heading_hr.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\fancy_heading_hr.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/fancy_heading_hr_dark.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\fancy_heading_hr_dark.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/mask_shapes/blob-2.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\mask_shapes\blob-2.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/mask_shapes/blob.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\mask_shapes\blob.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/mask_shapes/brush-2.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\mask_shapes\brush-2.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/mask_shapes/brush.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\mask_shapes\brush.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/mask_shapes/circle.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\mask_shapes\circle.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/mask_shapes/cross.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\mask_shapes\cross.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/mask_shapes/irregular-circle.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\mask_shapes\irregular-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/mask_shapes/stain.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\mask_shapes\stain.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/mask_shapes/triangle.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\mask_shapes\triangle.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/preloader2.gif
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\preloader2.gif
+Content Type: image/gif
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/recent_comments.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\recent_comments.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/stripes/stripes_10_b.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\stripes\stripes_10_b.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/stripes/stripes_10_w.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\stripes\stripes_10_w.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/stripes/stripes_3_b.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\stripes\stripes_3_b.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/stripes/stripes_5_b.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\stripes\stripes_5_b.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/stripes/textline_dark.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\stripes\textline_dark.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/timeline_left.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\timeline_left.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/timeline_right.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\timeline_right.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/timeline_top.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\timeline_top.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/images/videomask.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\images\videomask.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/menu.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\menu.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/parallax/translate3d.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\parallax\translate3d.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/plugins/debouncedresize.min.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\plugins\debouncedresize.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/plugins/enllax.min.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\plugins\enllax.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/plugins/imagesloaded.min.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\plugins\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/plugins/isotope.min.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\plugins\isotope.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/plugins/magnificpopup.min.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\plugins\magnificpopup.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/plugins/slick.min.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\plugins\slick.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/plugins/visible.min.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\plugins\visible.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/js/scripts.js?ver=28.1.5
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\js\scripts.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-content/themes/betheme/muffin-options/svg/be-mono.svg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\themes\betheme\muffin-options\svg\be-mono.svg
+Content Type: image/svg+xml
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/10-150x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\10-150x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/10.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\10.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/2-150x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\2-150x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/2.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\2.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/5-150x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\5-150x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/5.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\5.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/6-150x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\6-150x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/6.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\6.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/7-150x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\7-150x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/7.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\7.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/8-150x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\8-150x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/8.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\8.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/9-150x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\9-150x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/9.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\9.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/adv.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\adv.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/all-homes-Copy-scaled-1-1200x584.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\all-homes-Copy-scaled-1-1200x584.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/all-homes-Copy-scaled-1-150x73.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\all-homes-Copy-scaled-1-150x73.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/all-homes-Copy-scaled-1-1536x747.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\all-homes-Copy-scaled-1-1536x747.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/all-homes-Copy-scaled-1-2048x996.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\all-homes-Copy-scaled-1-2048x996.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/all-homes-Copy-scaled-1-300x146.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\all-homes-Copy-scaled-1-300x146.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/all-homes-Copy-scaled-1-480x233.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\all-homes-Copy-scaled-1-480x233.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/all-homes-Copy-scaled-1-500x243.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\all-homes-Copy-scaled-1-500x243.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/all-homes-Copy-scaled-1-768x374.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\all-homes-Copy-scaled-1-768x374.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/all-homes-Copy-scaled-1.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\all-homes-Copy-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/BJFHS-150x150.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\BJFHS-150x150.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/BJFHS-300x300.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\BJFHS-300x300.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/BJFHS-480x480.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\BJFHS-480x480.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/BJFHS-75x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\BJFHS-75x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/BJFHS.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\BJFHS.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/CD-150x150.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\CD-150x150.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/CD-300x300.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\CD-300x300.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/CD-480x480.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\CD-480x480.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/CD-75x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\CD-75x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/CD.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\CD.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/cropped-HGFavicon-180x180.webp
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\cropped-HGFavicon-180x180.webp
+Content Type: image/webp
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/cropped-HGFavicon-192x192.webp
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\cropped-HGFavicon-192x192.webp
+Content Type: image/webp
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/cropped-HGFavicon-32x32.webp
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\cropped-HGFavicon-32x32.webp
+Content Type: image/webp
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0102-1200x675.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0102-1200x675.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0102-134x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0102-134x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0102-1536x860.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0102-1536x860.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0102-300x168.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0102-300x168.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0102-480x269.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0102-480x269.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0102-500x280.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0102-500x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0102-768x430.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0102-768x430.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0102.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0102.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0157-1200x675.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0157-1200x675.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0157-134x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0157-134x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0157-1536x863.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0157-1536x863.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0157-300x169.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0157-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0157-480x270.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0157-480x270.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0157-500x281.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0157-500x281.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0157-768x431.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0157-768x431.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DJI_0157.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DJI_0157.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/don-112x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\don-112x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/don-1200x800.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\don-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/don-1536x1025.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\don-1536x1025.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/don-300x200.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\don-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/don-480x320.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\don-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/don-500x333.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\don-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/don-768x512.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\don-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/don.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\don.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08874-113x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08874-113x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08874-1200x800.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08874-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08874-1536x1024.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08874-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08874-300x200.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08874-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08874-480x320.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08874-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08874-500x333.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08874-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08874-768x512.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08874-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08874.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08874.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08908-112x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08908-112x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08908-1200x800.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08908-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08908-1536x1024.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08908-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08908-300x200.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08908-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08908-480x320.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08908-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08908-500x333.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08908-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08908-768x512.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08908-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/DSC08908.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\DSC08908.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/dw-150x150.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\dw-150x150.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/dw-300x300.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\dw-300x300.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/dw-480x480.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\dw-480x480.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/dw-75x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\dw-75x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/dw.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\dw.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA00880-113x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA00880-113x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA00880-1200x800.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA00880-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA00880-300x200.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA00880-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA00880-480x320.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA00880-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA00880-500x333.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA00880-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA00880-768x512.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA00880-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA00880.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA00880.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01051-113x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01051-113x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01051-1200x800.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01051-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01051-300x200.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01051-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01051-480x320.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01051-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01051-500x333.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01051-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01051-768x512.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01051-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01051.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01051.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01361-113x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01361-113x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01361-1200x800.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01361-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01361-300x200.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01361-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01361-480x320.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01361-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01361-500x333.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01361-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01361-768x512.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01361-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA01361.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA01361.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA06270-113x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA06270-113x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA06270-1200x799.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA06270-1200x799.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA06270-1536x1023.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA06270-1536x1023.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA06270-300x200.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA06270-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA06270-480x320.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA06270-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA06270-500x333.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA06270-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA06270-768x512.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA06270-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA06270.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA06270.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9111-1200x736.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9111-1200x736.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9111-122x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9111-122x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9111-1536x942.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9111-1536x942.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9111-300x184.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9111-300x184.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9111-480x294.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9111-480x294.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9111-500x307.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9111-500x307.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9111-768x471.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9111-768x471.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9111.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9111.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9118-113x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9118-113x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9118-1200x800.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9118-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9118-1536x1024.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9118-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9118-300x200.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9118-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9118-480x320.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9118-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9118-500x333.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9118-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9118-768x512.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9118-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9118.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9118.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9237-113x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9237-113x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9237-1200x800.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9237-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9237-1536x1024.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9237-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9237-300x200.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9237-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9237-480x320.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9237-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9237-500x333.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9237-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9237-768x512.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9237-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/EMA_9237.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\EMA_9237.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/faehb.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\faehb.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFDSA-150x150.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFDSA-150x150.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFDSA-300x300.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFDSA-300x300.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFDSA-480x480.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFDSA-480x480.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFDSA-75x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFDSA-75x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFDSA.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFDSA.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFX-150x150.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFX-150x150.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFX-300x300.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFX-300x300.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFX-480x480.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFX-480x480.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFX-75x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFX-75x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GFX.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GFX.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GHF-150x150.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GHF-150x150.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GHF-300x300.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GHF-300x300.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GHF-480x480.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GHF-480x480.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GHF-75x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GHF-75x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/GHF.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\GHF.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Ham-Group-Logo.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Ham-Group-Logo.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Hamis-Kiggundu-Ai.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Hamis-Kiggundu-Ai.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/HSD-150x150.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\HSD-150x150.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/HSD-300x300.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\HSD-300x300.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/HSD-480x480.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\HSD-480x480.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/HSD-75x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\HSD-75x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/HSD.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\HSD.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/IMG-20230114-WA0010-2-300x250.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\IMG-20230114-WA0010-2-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/IMG-20230114-WA0010-2-480x400.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\IMG-20230114-WA0010-2-480x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/IMG-20230114-WA0010-2-500x417.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\IMG-20230114-WA0010-2-500x417.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/IMG-20230114-WA0010-2-90x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\IMG-20230114-WA0010-2-90x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/IMG-20230114-WA0010-2.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\IMG-20230114-WA0010-2.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Mathias-Nyombi2.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Mathias-Nyombi2.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Nakibinge-Edward.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Nakibinge-Edward.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Namutebi-Shamira-640x640-1.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Namutebi-Shamira-640x640-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/QW-150x150.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\QW-150x150.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/QW-300x300.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\QW-300x300.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/QW-480x480.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\QW-480x480.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/QW-75x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\QW-75x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/QW.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\QW.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Screenshot_20230112_151839_Google-123x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Screenshot_20230112_151839_Google-123x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Screenshot_20230112_151839_Google-300x183.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Screenshot_20230112_151839_Google-300x183.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Screenshot_20230112_151839_Google-480x293.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Screenshot_20230112_151839_Google-480x293.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Screenshot_20230112_151839_Google-500x305.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Screenshot_20230112_151839_Google-500x305.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Screenshot_20230112_151839_Google-768x469.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Screenshot_20230112_151839_Google-768x469.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/Screenshot_20230112_151839_Google.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\Screenshot_20230112_151839_Google.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/unnamed-file-150x150.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\unnamed-file-150x150.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/unnamed-file-300x300.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\unnamed-file-300x300.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/unnamed-file-480x480.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\unnamed-file-480x480.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/unnamed-file-75x75.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\unnamed-file-75x75.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/unnamed-file.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\unnamed-file.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/vghs.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\vghs.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/WDGH.png
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\WDGH.png
+Content Type: image/png
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/WH-NIGTH-yo-1200x574.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\WH-NIGTH-yo-1200x574.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/WH-NIGTH-yo-150x72.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\WH-NIGTH-yo-150x72.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/WH-NIGTH-yo-1536x734.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\WH-NIGTH-yo-1536x734.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/WH-NIGTH-yo-300x143.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\WH-NIGTH-yo-300x143.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/WH-NIGTH-yo-480x229.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\WH-NIGTH-yo-480x229.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/WH-NIGTH-yo-500x239.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\WH-NIGTH-yo-500x239.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/WH-NIGTH-yo-768x367.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\WH-NIGTH-yo-768x367.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/01/WH-NIGTH-yo.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\01\WH-NIGTH-yo.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/ASSETS-WORKING-CAPITAL-EARNINGS.gif
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\ASSETS-WORKING-CAPITAL-EARNINGS.gif
+Content Type: image/gif
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/HAM-GROUP-1900-x-150-px.gif
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\HAM-GROUP-1900-x-150-px.gif
+Content Type: image/gif
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/IMG-20230114-WA0018-Copy-145x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\IMG-20230114-WA0018-Copy-145x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/IMG-20230114-WA0018-Copy-300x155.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\IMG-20230114-WA0018-Copy-300x155.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/IMG-20230114-WA0018-Copy-480x248.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\IMG-20230114-WA0018-Copy-480x248.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/IMG-20230114-WA0018-Copy-500x259.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\IMG-20230114-WA0018-Copy-500x259.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/IMG-20230114-WA0018-Copy-768x398.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\IMG-20230114-WA0018-Copy-768x398.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/IMG-20230114-WA0018-Copy.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\IMG-20230114-WA0018-Copy.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-112x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-112x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-1200x800.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-1200x800.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-1536x1024.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-1536x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-2048x1366.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-2048x1366.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-300x200.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-480x320.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-480x320.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-500x333.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-500x333.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-768x512.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.06-AM-2-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.06-AM-2.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.06-AM-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-112x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-112x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-1200x801.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-1200x801.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-1536x1025.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-1536x1025.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-2048x1366.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-2048x1366.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-300x200.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-480x320.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-480x320.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-500x334.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-500x334.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-768x512.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.08-AM-1-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-10-at-11.09.08-AM-1.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\02\WhatsApp-Image-2024-01-10-at-11.09.08-AM-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/1-18-685x1024-1-201x300.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\1-18-685x1024-1-201x300.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/1-18-685x1024-1-334x500.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\1-18-685x1024-1-334x500.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/1-18-685x1024-1-480x718.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\1-18-685x1024-1-480x718.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/1-18-685x1024-1-50x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\1-18-685x1024-1-50x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/1-18-685x1024-1.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\1-18-685x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/104181597-GettyImages-605519688-1200x675.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\104181597-GettyImages-605519688-1200x675.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/104181597-GettyImages-605519688-133x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\104181597-GettyImages-605519688-133x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/104181597-GettyImages-605519688-1536x864.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\104181597-GettyImages-605519688-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/104181597-GettyImages-605519688-300x169.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\104181597-GettyImages-605519688-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/104181597-GettyImages-605519688-480x270.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\104181597-GettyImages-605519688-480x270.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/104181597-GettyImages-605519688-500x281.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\104181597-GettyImages-605519688-500x281.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/104181597-GettyImages-605519688-768x432.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\104181597-GettyImages-605519688-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/104181597-GettyImages-605519688.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\104181597-GettyImages-605519688.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-1-685x1024-1-201x300.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-1-685x1024-1-201x300.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-1-685x1024-1-334x500.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-1-685x1024-1-334x500.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-1-685x1024-1-480x718.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-1-685x1024-1-480x718.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-1-685x1024-1-50x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-1-685x1024-1-50x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-1-685x1024-1.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-1-685x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-685x1024-1-201x300.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-685x1024-1-201x300.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-685x1024-1-334x500.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-685x1024-1-334x500.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-685x1024-1-480x718.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-685x1024-1-480x718.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-685x1024-1-50x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-685x1024-1-50x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/3-1-685x1024-1.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\3-1-685x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/4-6-685x1024-1-201x300.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\4-6-685x1024-1-201x300.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/4-6-685x1024-1-334x500.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\4-6-685x1024-1-334x500.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/4-6-685x1024-1-480x718.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\4-6-685x1024-1-480x718.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/4-6-685x1024-1-50x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\4-6-685x1024-1-50x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/4-6-685x1024-1.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\4-6-685x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/IMG-20210612-WA0012-1200x568.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\IMG-20210612-WA0012-1200x568.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/IMG-20210612-WA0012-150x71.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\IMG-20210612-WA0012-150x71.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/IMG-20210612-WA0012-1536x727.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\IMG-20210612-WA0012-1536x727.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/IMG-20210612-WA0012-2048x969.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\IMG-20210612-WA0012-2048x969.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/IMG-20210612-WA0012-300x142.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\IMG-20210612-WA0012-300x142.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/IMG-20210612-WA0012-480x227.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\IMG-20210612-WA0012-480x227.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/IMG-20210612-WA0012-500x237.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\IMG-20210612-WA0012-500x237.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/IMG-20210612-WA0012-768x364.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\IMG-20210612-WA0012-768x364.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/IMG-20210612-WA0012-scaled.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\IMG-20210612-WA0012-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-1-1200x675.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-1-1200x675.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-1-133x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-1-133x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-1-300x169.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-1-480x270.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-1-480x270.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-1-500x281.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-1-500x281.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-1-768x432.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-1.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-1200x675.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-1200x675.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-133x75.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-133x75.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-300x169.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-480x270.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-480x270.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-500x281.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-500x281.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault-768x432.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/maxresdefault.jpg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/vip_express_logistics_llc_cover-1200x528.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\vip_express_logistics_llc_cover-1200x528.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/vip_express_logistics_llc_cover-150x66.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\vip_express_logistics_llc_cover-150x66.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/vip_express_logistics_llc_cover-300x132.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\vip_express_logistics_llc_cover-300x132.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/vip_express_logistics_llc_cover-480x211.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\vip_express_logistics_llc_cover-480x211.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/vip_express_logistics_llc_cover-500x220.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\vip_express_logistics_llc_cover-500x220.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/vip_express_logistics_llc_cover-768x338.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\vip_express_logistics_llc_cover-768x338.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/vip_express_logistics_llc_cover.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\vip_express_logistics_llc_cover.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.22.49-min-113x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.22.49-min-113x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.22.49-min-1200x800.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.22.49-min-1200x800.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.22.49-min-1536x1024.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.22.49-min-1536x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.22.49-min-2048x1365.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.22.49-min-2048x1365.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.22.49-min-300x200.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.22.49-min-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.22.49-min-480x320.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.22.49-min-480x320.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.22.49-min-500x333.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.22.49-min-500x333.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.22.49-min-768x512.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.22.49-min-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.22.49-min.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.22.49-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min-100x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min-100x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min-1200x898.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min-1200x898.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min-1536x1150.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min-1536x1150.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min-2048x1533.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min-2048x1533.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min-300x225.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min-480x359.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min-480x359.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min-500x374.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min-500x374.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min-768x575.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min-768x575.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min-960x720.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min-960x720.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.01-min.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.01-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-1-min-113x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-1-min-113x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-1-min-1200x800.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-1-min-1200x800.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-1-min-1536x1024.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-1-min-1536x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-1-min-2048x1365.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-1-min-2048x1365.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-1-min-300x200.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-1-min-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-1-min-480x320.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-1-min-480x320.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-1-min-500x333.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-1-min-500x333.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-1-min-768x512.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-1-min-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-1-min.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-1-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-2-min-112x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-2-min-112x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-2-min-1200x800.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-2-min-1200x800.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-2-min-1536x1024.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-2-min-1536x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-2-min-2048x1366.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-2-min-2048x1366.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-2-min-300x200.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-2-min-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-2-min-480x320.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-2-min-480x320.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-2-min-500x333.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-2-min-500x333.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-2-min-768x512.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-2-min-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-2-min.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-2-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min-100x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min-100x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min-1200x898.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min-1200x898.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min-1536x1150.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min-1536x1150.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min-2048x1533.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min-2048x1533.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min-300x225.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min-480x359.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min-480x359.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min-500x374.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min-500x374.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min-768x575.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min-768x575.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min-960x720.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min-960x720.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.02-min.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.02-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-113x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-113x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-1200x800.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-1200x800.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-1536x1024.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-1536x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-2048x1365.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-2048x1365.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-300x200.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-480x320.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-480x320.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-500x333.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-500x333.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-768x512.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.04-2-min-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min-100x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min-100x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min-1200x899.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min-1200x899.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min-1536x1151.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min-1536x1151.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min-2048x1534.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min-2048x1534.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min-300x225.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min-480x360.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min-480x360.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min-500x375.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min-500x375.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min-768x575.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min-768x575.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min-960x720.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min-960x720.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-1-min.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-1-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-min-113x75.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-min-113x75.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-min-1200x800.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-min-1200x800.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-min-1536x1024.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-min-1536x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-min-2048x1365.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-min-2048x1365.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-min-300x200.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-min-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-min-480x320.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-min-480x320.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-min-500x333.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-min-500x333.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-min-768x512.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-min-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-18-at-11.23.05-min.jpeg
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\2024\04\WhatsApp-Image-2024-04-18-at-11.23.05-min.jpeg
+Content Type: image/jpeg
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-11.css?ver=1763478306
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-11.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-201.css?ver=1763479054
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-201.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-212.css?ver=1763477943
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-212.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-238.css?ver=1763470447
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-238.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-241.css?ver=1763483197
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-241.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-244.css?ver=1763468490
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-244.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-247.css?ver=1763469442
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-247.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-253.css?ver=1763482087
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-253.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-258.css?ver=1763479618
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-258.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-270.css?ver=1763477909
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-270.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-290.css?ver=1763481599
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-290.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-299.css?ver=1763481577
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-299.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-306.css?ver=1763468606
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-306.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-311.css?ver=1763480351
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-311.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-316.css?ver=1763478028
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-316.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-323.css?ver=1763468730
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-323.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-328.css?ver=1763525561
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-328.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-content/uploads/betheme/css/post-9.css?ver=1763481095
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-content\uploads\betheme\css\post-9.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-includes/css/dist/block-library/style.min.css?ver=b9dee6dbe1b911ef620dc9d013b8702e
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://hamzgroup.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-includes\js\jquery\ui\tabs.min.js
+Content Type: text/javascript
+
+Uri: https://hamzgroup.com/wp-json/
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fabout-us%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fabout-us%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fbyaallahmall%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fbyaallahmall%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fgallery%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fgallery%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-agro-processing-industries%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-agro-processing-industries%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-international-express-logistics-llc%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-international-express-logistics-llc%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-international-us-ltd%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-international-us-ltd%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-palm-villas-gallery%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-palm-villas-gallery%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-shopping-grounds%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fham-shopping-grounds%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamtowers%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamtowers%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamz-fitness-center-gallery%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamz-fitness-center-gallery%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamzfoundation%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamzfoundation%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamzlimited%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamzlimited%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamzplaza%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamzplaza%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamzstadiumgallery%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fhamzstadiumgallery%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Four-team%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Four-team%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fqueens-stores%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fqueens-stores%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fwhite-house-uganda-gallary%2F
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhamzgroup.com%2Fwhite-house-uganda-gallary%2F&format=xml
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/11
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/201
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\201
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/212
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\212
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/238
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\238
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/241
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\241
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/244
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\244
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/247
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\247
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/253
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\253
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/258
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\258
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/270
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\270
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/290
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\290
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/299
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\299
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/306
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\306
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/311
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\311
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/316
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\316
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/323
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\323
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/328
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\328
+Content Type: application/json
+
+Uri: https://hamzgroup.com/wp-json/wp/v2/pages/9
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+File Name: C:\Users\user\OneDrive\Desktop\clone\hamzgroup.com\beacon.min.js\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Content Type: text/javascript
+
